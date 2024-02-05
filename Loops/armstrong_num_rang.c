@@ -1,3 +1,5 @@
+// This program is used to find the armstrong number in a given range
+
 #include<stdio.h>
 #include<math.h>
 int main()
